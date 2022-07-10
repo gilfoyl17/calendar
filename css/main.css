@@ -1,0 +1,44 @@
+img {
+    width: 250px;
+    margin-top: 100px;
+}
+img#june {
+ margin-left: 280px;
+}
+h1.july {
+    display: inline;
+    margin: 70px;
+    font-size: 50px;   
+}
+div.container {
+    width: fit-content;
+}
+ul li {
+    display: inline-block;
+    border: 3px solid black;
+    width: 100px;
+    height: 40px;
+    font-size: 20px;
+    margin: 0px 10px 0px 10px;
+    vertical-align: top;
+    text-align: center;
+    padding-top: 10px;  
+}
+ul li.date{
+    font-weight: bold;
+    font-size: 30px;
+}
+ul li.sunday {
+    background-color: #5B9BD5;
+}
+ul li.saturday {
+    background-color: #A9D08E;
+}
+ul li.blank {
+    background-color: #E7E6E6;
+    border-color: #E7E6E6;
+}
+.july-content {
+    padding-top:10px;
+    margin-left: 230px;
+}
